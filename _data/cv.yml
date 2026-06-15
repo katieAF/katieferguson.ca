@@ -1,0 +1,264 @@
+cv:
+  sections:
+    Education:
+      - institution: University of Toronto
+        location: Toronto, Canada
+        area: Physiology, Specialization in Neuroscience
+        studyType: PhD
+        start_date: 2009
+        end_date: 2015
+        highlights:
+          - "Thesis: Mathematical models provide insight into the role of interneurons in hippocampal CA1 network theta rhythm generation"
+          - "Advisor: Dr. Frances K. Skinner"
+
+      - institution: University of Waterloo
+        location: Waterloo, Canada
+        area: Applied Mathematics
+        studyType: Master of Mathematics
+        start_date: 2007
+        end_date: 2009
+        highlights:
+          - "Thesis: A model of CA1 hippocampal neurons with astrocytic input"
+          - "Advisor: Dr. Sue Ann Campbell"
+
+      - institution: University of Waterloo
+        location: Waterloo, Canada
+        area: Applied Mathematics
+        studyType: B.Math. (Hons), Co-op Program
+        start_date: 2000
+        end_date: 2006
+        highlights:
+          - Minor in Psychology
+
+    Academic Positions:
+      - company: Yale School of Medicine
+        position: Visiting Scholar
+        location: New Haven, CT
+        start_date: 2025
+        end_date: 2026
+        summary: Department of Neuroscience
+
+      - company: Yale School of Medicine
+        position: Associate Research Scientist
+        location: New Haven, CT
+        start_date: 2021
+        end_date: 2024
+        summary: Department of Neuroscience, Advisor Dr. Jessica Cardin
+
+      - company: Yale School of Medicine
+        position: Postdoctoral Associate
+        location: New Haven, CT
+        start_date: 2015
+        end_date: 2021
+        summary: Department of Neuroscience, Advisor Dr. Jessica Cardin
+
+    Scientific Consulting:
+      - company: Mercor
+        position: Neuroscience Domain Expert (Consultant)
+        location: ""
+        start_date: 2025
+        end_date: 2026
+        summary: Audited and validated "Deep Research" LLMs, evaluating reasoning on experimental design, causal inference, and data interpretation.
+
+    Grants and Fellowships:
+      - title: K99 NIH Pathway to Independence Award
+        date: 2019-2023
+        awarder: National Eye Institute (NEI) at National Institutes of Health (NIH)
+
+      - title: BBRF Young Investigator Grant
+        date: 2018-2020
+        awarder: Brain & Behavior Research Foundation (formerly NARSAD)
+
+      - title: James Hudson Brown - Alexander B. Coxe Fellowship
+        date: 2016-2017
+        awarder: Yale University School of Medicine
+
+      - title: Ontario Graduate Scholarship
+        date: 2014-2015
+        awarder: Ontario Graduate Scholarship Program
+
+      - title: Ontario Graduate Scholarship
+        date: 2013-2014
+        awarder: Ontario Graduate Scholarship Program
+
+      - title: Canada Graduate Scholarship
+        date: 2011-2013
+        awarder: Natural Sciences and Engineering Research Council of Canada (NSERC)
+
+      - title: Ontario Graduate Scholarship in Science and Technology
+        date: 2009-2010
+        awarder: University of Toronto
+
+      - title: University of Toronto Fellowship
+        date: 2009-2010
+        awarder: University of Toronto
+
+    Honors and Awards:
+      - title: Marine Biological Laboratory, Neural Systems and Behavior Scholarship
+        date: 2015
+        awarder: ""
+
+      - title: University of Toronto Brain Platform Day Poster Award
+        date: 2015
+        awarder: ""
+
+      - title: Marine Biological Laboratory, Neurobiology Scholarship
+        date: 2014
+        awarder: ""
+
+      - title: Organization for Computational Neurosciences Travel Award
+        date: 2011-2013
+        awarder: ""
+
+      - title: Toronto Western Research Institute Research Day Oral Presentation Award
+        date: 2013
+        awarder: ""
+
+      - title: Office of Research Trainees Conference Travel Award
+        date: 2012
+        awarder: ""
+
+      - title: Toronto Western Research Institute Research Day Poster Award
+        date: 2012
+        awarder: ""
+
+      - title: Frontiers in Physiology Poster Award
+        date: 2012
+        awarder: ""
+
+      - title: School of Graduate Studies Conference Grant
+        date: 2011
+        awarder: ""
+
+      - title: Organization for Computational Neurosciences Poster Award
+        date: 2011
+        awarder: ""
+
+    Invited Talks:
+      - title: Applied Mathematics Seminar Series
+        date: 2024
+        awarder: University of Waterloo, Waterloo, ON, Canada
+
+      - title: Bernstein Center for Computational Neuroscience Postdoc Seminar Series
+        date: 2024
+        awarder: Humboldt University, Berlin, Germany
+
+      - title: University of Lisboa, Faculty of Medicine
+        date: 2024
+        awarder: Lisbon, Portugal
+
+      - title: Krembil Computational Neuroscience Hub
+        date: 2024
+        awarder: Krembil Research Institute, Toronto, Canada
+
+      - title: COSYNE Workshop
+        date: 2023
+        awarder: "How do interneurons control neural computations and memory processes? Mont-Tremblant, Canada"
+
+      - title: Canadian Neuroscience Meeting
+        date: 2022
+        awarder: Toronto, Canada
+
+      - title: Ernst Strüngmann Institute for Neuroscience Seminar
+        date: 2020
+        awarder: Max Planck Society, Frankfurt, Germany (Virtual)
+
+      - title: Weill Cornell Psychiatry Department Seminar
+        date: 2020
+        awarder: New York City, NY (Virtual)
+
+      - title: Simons Collaboration on the Global Brain NY-Area Postdoc Meeting
+        date: 2019
+        awarder: New York City, NY
+
+      - title: Tools for acquisition and interpretation of whole brain functional data
+        date: 2017
+        awarder: Janelia Research Campus, Ashburn, VA (Short Talk)
+
+      - title: Soltesz Laboratory Seminar
+        date: 2015
+        awarder: University of California Irvine School of Medicine
+
+      - title: Workshop on Taking Advantage of Theory and Analyses in Neuroscience
+        date: 2014
+        awarder: Centre for Mathematical Medicine, The Fields Institute, Toronto
+
+      - title: Computational Neuroscience Meeting (OCNS)
+        date: 2012
+        awarder: Decatur, GA
+
+      - title: Focus program on mathematical modeling of neurological disease
+        date: 2012
+        awarder: The Fields Institute, Toronto
+
+      - title: Society for Autonomous Neurodynamics Conference (SAND)
+        date: 2010
+        awarder: Toronto, Canada
+
+      - title: Workshop on Normal and Diseased Neurological States
+        date: 2010
+        awarder: Computational Neuroscientists of Upper Canada, The Fields Institute, Toronto
+
+    Professional Development:
+      - title: Suite 2P Workshop
+        date: 2019
+        awarder: Janelia Research Campus (Three day course)
+
+      - title: Summer Workshop on the Dynamic Brain
+        date: 2017
+        awarder: Allen Institute for Brain Science, Friday Harbor Laboratories (Two week course)
+
+      - title: Neural Systems and Behavior
+        date: 2015
+        awarder: Marine Biological Laboratory, Woods Hole, MA (Eight week course)
+
+      - title: Advances in Multineuronal Monitoring of Brain Activity
+        date: 2014
+        awarder: Society for Neuroscience Meeting Satellite Symposium
+
+      - title: Neurobiology
+        date: 2014
+        awarder: Marine Biological Laboratory, Woods Hole, MA (Eight week course)
+
+      - title: Using NEURON to model cells and networks
+        date: 2012
+        awarder: Society for Neuroscience Meeting Satellite Symposium
+
+      - title: Computational Neuroscience Summer School
+        date: 2007
+        awarder: Centre for Neural Dynamics, University of Ottawa (Two week course)
+
+    Technical Skills:
+      - bullet: "**Computing:** 20+ years in MATLAB; 10+ years in Python (NumPy, SciPy, Pandas, scikit-learn, PyTorch, Matplotlib); R; Bash scripting, cluster computing (Slurm, PBS), git, Docker; Illustrator, Photoshop"
+      - bullet: "**Data Analysis:** Regression, multi-level modeling, time series analyses, state-space models, dimensionality reduction, manifold learning, machine learning (supervised/unsupervised), deep learning (CNNs, RNNs), Bayesian modeling, image processing"
+      - bullet: "**Scientific:** Two-photon Ca2+ imaging, electrophysiology (Neuropixels), real-time closed-loop optogenetics, mouse behavior, intersectional genetics, experimental design; surgical techniques (cranial windows, virus injections); immunohistochemistry, CRISPR; microscope optimization, microcontroller programming, hardware integration"
+      - bullet: "**Theoretical Neuroscience:** Biophysical point-process network models, mean-field models, multi-compartment modeling, dynamical systems"
+
+    Service:
+      - title: Peer Reviewer
+        date: 2013-present
+        awarder: COSYNE (2017-2020, 2022), Neural Networks (2021), Peer Community in Circuit Neuroscience (2020), AWM Proceedings (2018), eLife (2015, 2017), J. Comp. Neurosci. (2013)
+
+      - title: Women in Science at Yale (WISAY) Board Member
+        date: 2016-2023
+        awarder: Organized campus-wide mentorship program for female-identifying postdocs in STEM
+
+      - title: Yale Neuroscience Postdoc Committee Board Member
+        date: 2020-2023
+        awarder: Promoted professional development for postdocs
+
+      - title: Organizer, SCGB NY-Area Postdoc Meeting
+        date: 2020-2021
+        awarder: Simons Collaboration on the Global Brain, New York City
+
+      - title: Open Labs Video Series
+        date: 2019
+        awarder: Calcium Imaging Section, Science education for high school students, Yale University
+
+      - title: SYNAPSES Seminar Series Organizer
+        date: 2018-2019
+        awarder: Seminars at Yale Neuroscience - Advanced PoStdoc Extramural Series
+
+      - title: Graduate Student Representative
+        date: 2013
+        awarder: Task Force on Innovation and Transformation in Graduate Education, Faculty of Medicine, University of Toronto

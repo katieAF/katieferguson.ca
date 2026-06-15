@@ -1,0 +1,94 @@
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+@use "variables" as v;
+
+body {
+  padding-bottom: 70px;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    scroll-margin-top: 66px;
+  }
+}
+
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 57px;
+}
+
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
+
+.container {
+  max-width: v.$max-content-width;
+}
+
+// Profile
+.profile {
+  img {
+    width: 100%;
+  }
+}
+
+// About page text justification
+.post article .clearfix {
+  text-align: justify;
+}
+
+// About-page subtitle (under the name in the header)
+.post .post-header p.desc {
+  font-size: 1.35rem;
+  font-weight: 300;
+  letter-spacing: 0.01em;
+  color: var(--global-text-color-light, #828282);
+  margin-top: -0.25rem;
+  margin-bottom: 1.5rem;
+}
+
+// Research-page Approach group headings (Systems / Behavior / Computational)
+// Mirrors the publications-page year heading style for visual consistency.
+h2.approach-group {
+  color: var(--global-divider-color);
+  border-top: 1px solid var(--global-divider-color);
+  padding-top: 1rem;
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+// On phones, the date badge in card headers stacks above the title
+// without breathing room. Add a small bottom margin only on xs screens.
+@media (max-width: 575.98px) {
+  .card .badge.align-middle {
+    margin-bottom: 0.75rem;
+  }
+}
+
+// Content layout uses Bootstrap's grid system with responsive columns
+// Main content flows naturally through container-mt-5 and Bootstrap grid classes
+// See _layouts/default.liquid and _includes/projects.liquid for examples
+
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
+
+// Publications layout is defined in _includes/bib_search.liquid
+// Uses jekyll-scholar for BibTeX parsing and Bootstrap cards for display
+
+/*****************************************************************************
+* Projects
+*****************************************************************************/
+
+// TODO: redefine projects layout.
