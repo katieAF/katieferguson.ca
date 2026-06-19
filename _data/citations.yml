@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-19'
 papers:
   ALrY-XUAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -86,7 +86,7 @@ papers:
     title: Network models provide insight into how oriens-lacunosum-moleculare (OLM) and bistratified cell (BSC) interactions influence local CA1 theta rhythms
     year: '2014'
   ALrY-XUAAAAJ:UebtZRa9Y70C:
-    citations: 35
+    citations: 36
     title: '25th annual computational neuroscience meeting: CNS-2016'
     year: '2016'
   ALrY-XUAAAAJ:W7OEmFMy1HYC:
@@ -94,11 +94,11 @@ papers:
     title: A model of CA1 hippocampal neurons with astrocytic input
     year: '2008'
   ALrY-XUAAAAJ:WF5omc3nYNoC:
-    citations: 19
+    citations: 20
     title: Examining the limits of cellular adaptation bursting mechanisms in biologically-based excitatory networks of the hippocampus
     year: '2015'
   ALrY-XUAAAAJ:Wp0gIr-vW9MC:
-    citations: 39
+    citations: 40
     title: Inhibitory network bistability explains increased interneuronal activity prior to seizure onset
     year: '2020'
   ALrY-XUAAAAJ:Y0pCki6q_DkC:
@@ -134,7 +134,7 @@ papers:
     title: Delayed integration of somatostatin interneurons into visual circuits
     year: '2025'
   ALrY-XUAAAAJ:mVmsd5A6BfQC:
-    citations: 380
+    citations: 385
     title: Mechanisms underlying gain modulation in the cortex
     year: '2020'
   ALrY-XUAAAAJ:pqnbT2bcN3wC:
@@ -150,7 +150,7 @@ papers:
     title: 'Corrigendum: Inhibitory Network Bistability Explains Increased Interneuronal Activity Prior to Seizure Onset'
     year: '2021'
   ALrY-XUAAAAJ:roLk4NBRz8UC:
-    citations: 75
+    citations: 74
     title: "Excitatory inputs determine phase-locking strength and spike-timing of CA1 stratum oriens/alveus parvalbumin and somatostatin interneurons during intrinsically generated \u2026"
     year: '2016'
   ALrY-XUAAAAJ:u-x6o8ySG0sC:
